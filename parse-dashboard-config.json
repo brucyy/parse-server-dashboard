@@ -1,0 +1,21 @@
+{
+  "apps": [
+    {
+      "serverURL": "<Your parse server url here>",
+      "appId": "<Your parse app id>",
+      "masterKey": "<Your master key here>",
+      "javascriptKey": "<Your javascript key>",
+      "restKey": "<Your rest key >",
+      "appName": "<Your App Name>",
+      "production": true
+    }
+  ],
+  "trustProxy": 1,
+  "users": [
+     {
+       "user":"<The user name for logging into dashboard>",
+       "pass":"<The password for logging into dashboard>",
+       "apps": [ {"appId": "<Your app id here>"} ]
+     }
+  ]
+}

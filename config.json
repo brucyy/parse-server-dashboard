@@ -1,0 +1,8 @@
+{
+  "DATABASE_URI": "<Your mongo database path>",
+  "CLOUD_PATH": "./cloud/main.js",
+  "APP_ID": "<Your parse app Id>",
+  "MASTER_KEY": "<Your master key here>",
+  "PARSE_MOUNT_PATH": "/parse",
+  "SERVER_URL": "http://localhost:8080/parse"
+}
